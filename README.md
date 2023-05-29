@@ -3,7 +3,7 @@
 ```PHP
 <?php
 $skills = $_GET['skills'] ?? null;
-echo (!is_null($skills) ? "<pre>".$skills."</pre>" : die);
+echo (!is_null($skills) ? "<pre>".$skills."</pre>" : die());
 ```
 ```BASH
 ➜  Github git:(main) ✗ 
