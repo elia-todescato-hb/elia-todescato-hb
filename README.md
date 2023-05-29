@@ -6,7 +6,7 @@ $skills = $_GET['skills'] ?? null;
 echo (!is_null($skills) ? "<pre>".$skills."</pre>" : die);
 ```
 ```BASH
-➜  Github git:(principale) ✗ 
+➜  Github git:(main) ✗ 
                 <pre>
                     array(
                         "JS" ,
