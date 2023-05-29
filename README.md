@@ -1,3 +1,4 @@
+![Alt text](https://gifdb.com/images/high/rick-and-morty-robot-thank-you-8qgu52r5oui6ajkz.gif)
 - 👋 Hi, I’m @elia-todescato
 - 👀 I’m interested in...
 ```PHP
