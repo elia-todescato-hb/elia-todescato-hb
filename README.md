@@ -25,4 +25,5 @@ echo (!is_null($skills) ? "<pre>".$skills."</pre>" : die());
 - 📫 How to reach me elia.todescato@hbenchmark.it
 ---
 ## How much code i wrote?
+[![wakatime](https://wakatime.com/badge/user/5c186f10-199e-4b87-9466-cdf23181970b/project/e971664b-c668-4ea3-8197-1b26c473449a.svg)](https://wakatime.com/badge/user/5c186f10-199e-4b87-9466-cdf23181970b/project/e971664b-c668-4ea3-8197-1b26c473449a)
 ![Alt text](https://wakatime.com/share/@5c186f10-199e-4b87-9466-cdf23181970b/95383251-e4a8-4fad-989f-a6ce30da24db.svg)
