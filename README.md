@@ -29,7 +29,7 @@ echo (!is_null($skills) ? "<pre>".$skills."</pre>" : die());
 > Hours on wakatime
 [![wakatime](https://wakatime.com/badge/user/5c186f10-199e-4b87-9466-cdf23181970b/project/e971664b-c668-4ea3-8197-1b26c473449a.svg)](https://wakatime.com/badge/user/5c186f10-199e-4b87-9466-cdf23181970b/project/e971664b-c668-4ea3-8197-1b26c473449a)
 
-> _Commit made in the last 7 days_
+> _Push Push puuush_
 
 ![Alt text](https://wakatime.com/share/@5c186f10-199e-4b87-9466-cdf23181970b/58a2848c-4053-4cb7-8044-d5212034faf8.svg)
 
