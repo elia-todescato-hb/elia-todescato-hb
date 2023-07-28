@@ -20,6 +20,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
+## 📱 DevCard
+<a href="https://app.daily.dev/eliatodescato"><img src="https://api.daily.dev/devcards/560e7704362f408995649015d3d62929.png?r=49c" width="400" alt="Elia Todescato's Dev Card"/></a>
+
 [![](https://visitcount.itsvg.in/api?id=elia-todescato-hb&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
